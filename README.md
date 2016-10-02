@@ -1,2 +1,4 @@
 # karate-website
-Karate Website developed using CodeIgnitor platform - karate.herobo.com
+Karate Website developed using CodeIgnitor platform
+
+Not activaly maintained.
